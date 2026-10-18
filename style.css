@@ -1,13 +1,38 @@
 body{
-    background-color: #faf7f7;
+    background-color: #d5d5d5;
 }
-p{
-    color: #ff0055;
+h1{
+    color: #0c0c0c;
     font-family: Impact, sans-serif;
-    font-size: 16px;
+    font-size: 24px;
+    text-align: center;
 }
 a{
-    color: #ff0066;
+    color: #616060;
    font-family: Impact, sans-serif;
     font-size: 16px;
+    text-align: center;
+}
+
+p{
+    color: #050505;
+    font-family: Impact, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+a{
+    color: #444242;
+   font-family: Impact, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+p2{
+    color: #0f0f0f;
+    font-family: Impact, sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+body{
+    background-color: #d5d5d5;
+    text-align: center;
 }
