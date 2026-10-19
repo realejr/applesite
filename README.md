@@ -50,13 +50,13 @@ applesite/
 ├── Support.html
 ├── Wheretobuy.html
 ├── iPhone.html
-├── ipad.html
+├── iPad.html
 ├── Macbook.html
 ├── style.css
 ├── applelogo.png
-├── ipad.png
-├── ipone.png
-├── mac.png
+├── iPad.png
+├── iPhone.png
+├── Macbook.png
 └── README.md
 ```
 
