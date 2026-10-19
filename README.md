@@ -13,10 +13,10 @@ A parody "Apple" website built with plain HTML and CSS. It started as a troll si
 | Page | What it is |
 | --- | --- |
 | `index.html` | Home page and navigation |
-| `stor.html` | Where to buy, with Apple Store counts by country |
-| `ipone.html` | iPhone 18 Pro Max specs |
-| `ipad.html` | iPad Pro specs |
-| `freemac.html` | MacBook Pro specs |
+| `Wheretobuy.html` | Where to buy, with Apple Store counts by country |
+| `iPhone.html` | iPhone 18 Pro Max specs |
+| `iPad.html` | iPad Pro specs |
+| `Macbook.html` | MacBook Pro specs |
 
 ## Features
 
@@ -46,10 +46,11 @@ A parody "Apple" website built with plain HTML and CSS. It started as a troll si
 ```
 applesite/
 ├── index.html
-├── stor.html
-├── ipone.html
-├── ipad.html
-├── freemac.html
+├── Support.html
+├── Wheretobuy.html
+├── iPhone.html
+├── iPad.html
+├── Macbook.html
 ├── style.css
 ├── applelogo.png
 ├── ipad.png
