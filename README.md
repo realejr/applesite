@@ -15,7 +15,7 @@ A parody "Apple" website built with plain HTML and CSS. It started as a troll si
 | `index.html` | Home page and navigation |
 | `Wheretobuy.html` | Where to buy, with Apple Store counts by country |
 | `iPhone.html` | iPhone 18 Pro Max specs |
-| `iPad.html` | iPad Pro specs |
+| `ipad.html` | iPad Pro specs |
 | `Macbook.html` | MacBook Pro specs |
 | `Support.html` | Apple support |
 
@@ -50,7 +50,7 @@ applesite/
 ├── Support.html
 ├── Wheretobuy.html
 ├── iPhone.html
-├── iPad.html
+├── ipad.html
 ├── Macbook.html
 ├── style.css
 ├── applelogo.png
