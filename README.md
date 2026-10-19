@@ -17,6 +17,7 @@ A parody "Apple" website built with plain HTML and CSS. It started as a troll si
 | `iPhone.html` | iPhone 18 Pro Max specs |
 | `iPad.html` | iPad Pro specs |
 | `Macbook.html` | MacBook Pro specs |
+| `Support.html` | Apple support |
 
 ## Features
 
